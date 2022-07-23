@@ -1,1 +1,2 @@
 # BitePadUpdates
+Non OpenSource Product
